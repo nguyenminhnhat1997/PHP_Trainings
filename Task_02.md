@@ -50,8 +50,16 @@
 ![a](http://imageshack.com/a/img923/5894/LbTEiT.png)
 
 - 3.2 Ta chuyển đến thư mục mà ta muốn lưu các file trên Github.
->Syntax: `cd (địa chỉ đến thư mục đó)
-> *Ví dụ*: ở đây muốn lưu file ở thư mục Task_Web
+
+
+> Syntax: `cd (địa chỉ đến thư mục đó)`.
+> *Ví dụ*: ở đây tôi muốn lưu các file trên Github vào trong thư mục `PHP_Trainings` nằm trong thư mục `Task_WEB` ở ngoài `Desktop`.
+> Ta làm từng bước như sau.
+
+
+![a](http://imageshack.com/a/img922/2991/W5aU5H.png)
+
+
 
 
 

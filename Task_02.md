@@ -40,8 +40,10 @@
 - Có thể tự cài đặt, sau khi cài đặt xuất hiện các ứng dụng như sau:
 
 ![a](http://imageshack.com/a/img923/4958/bvnQ7p.png)
-
+<a name="using"></a>
+<a name="push"></a>
 ### 3. Cách sử dụng Git trên Cmd (terminal).
+### 4.Sử dụng Git để commit/push file `READM.md` lên github](#push).
 
 - 3.1 Ta chọn `Git CMD`.
 
@@ -54,12 +56,56 @@
 
 > Syntax: `cd (địa chỉ đến thư mục đó)`.
 
-> *Ví dụ*: ở đây tôi muốn lưu các file trên Github vào trong thư mục `PHP_Trainings` nằm trong thư mục `Task_WEB` ở ngoài `Desktop`.
+> *Ví dụ*: ở đây tôi muốn lưu các file trên Github vào trong thư mục `Test` nằm trong thư mục `Task_WEB` ở ngoài `Desktop`.
 
 > Ta làm từng bước như sau.
 
+![a](http://imageshack.com/a/img924/9873/3fREZx.png)
 
-![a](http://imageshack.com/a/img922/2991/W5aU5H.png)
+- 3.3 Thực hiện thêm `tên` và `email`.
+
+![a](http://imageshack.com/a/img922/6920/0AWANJ.png)
+
+- 3.4 Ở bên github vào repository Test ta đã tạo trước đó copy link HTTPS.
+
+![a](http://imageshack.com/a/img924/3043/coQhBV.png)
+
+> Ghi nhớ cái link đó để tí nữa ta sẽ thực hiện Clone(có nghĩa là ta sẽ sao chép toàn bộ nội dung từ Github về máy tính).
+
+- 3.5 Clone, Add, Commit, Push.
+
+> Ta sẽ tiến hành Clone như sau: `git clone linke_lúc_nãy_ta_nhớ`.
+
+![a](http://imageshack.com/a/img921/1958/e1Vg22.png)
+
+> Clone thành công.
+
+> Ta sẽ tạo 1 file tên READM.md trong thư mục `Test` có nội dung là `# Nguyen Van A bằng` bằng `Node pad`,`Sublime text`....
+
+![a](http://imageshack.com/a/img921/3718/wEZJ0g.png)
+
+> Ta tiến hành `add` file vừa tạo lên github bằng câu lệnh: `git add READM.md` or `git add .`, dấu `.` có nghĩa là tất cả các file.
+
+![a](http://imageshack.com/a/img923/4737/MYpnNP.png)
+
+> Nó không thông báo gì tức là đã add thành công.
+
+> Tiếp theo ta sẽ `commit` có nghĩa là ta sẽ ghi lại việc ta `add` lúc nãy và có thể kèm thêm `ghi chú` cho file vừa add lên.
+
+> Cú pháp là: `git commit -m "nội_dung_ghi_chú`.
+
+![a](http://imageshack.com/a/img922/2640/WqLkZK.png)
+
+> Tiếp theo ta sẽ upload nội dung mà hiện tại máy ta có (file `READM.md`) lên Github gọi là `push`.
+
+> Cú pháp: `git push origin master`.
+
+![a](http://imageshack.com/a/img923/3905/Rod5Yu.png)
+
+> Thế là đã `push` lên thành công (nếu push lần đầu nó sẽ yêu cầu tài khoản và mật khẩu cứ nhập vào sẽ ok).
+
+## Thank you for watching ^^!
+
 
 
 

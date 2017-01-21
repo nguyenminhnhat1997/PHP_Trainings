@@ -103,6 +103,9 @@
 ![a](http://imageshack.com/a/img923/3905/Rod5Yu.png)
 
 - Thế là đã `push` lên thành công (nếu push lần đầu nó sẽ yêu cầu tài khoản và mật khẩu cứ nhập vào sẽ ok).
+#### 4.6 Kiểm tra kết quả `push` trên web github.
+
+![a](http://imageshack.com/a/img924/3931/3qy2Ai.png)
 
 ## Thank you for watching ^^!
 

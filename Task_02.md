@@ -53,7 +53,9 @@
 
 
 > Syntax: `cd (địa chỉ đến thư mục đó)`.
+
 > *Ví dụ*: ở đây tôi muốn lưu các file trên Github vào trong thư mục `PHP_Trainings` nằm trong thư mục `Task_WEB` ở ngoài `Desktop`.
+
 > Ta làm từng bước như sau.
 
 

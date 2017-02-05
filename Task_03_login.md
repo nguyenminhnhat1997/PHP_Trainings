@@ -30,6 +30,18 @@
 
 ![image](http://imageshack.com/a/img922/6941/BCJWwE.png)
 
+## Các bước để thực hiện tạo 1 login bằng PHP có kết nối với  DATABASE MySQL như sau
+
+![image](http://imageshack.com/a/img923/1505/ztTnHK.png)
+
+![image](http://imageshack.com/a/img923/9161/50frqf.png)
+
+- Chuyển sang trang `homee.php`
+
+![image](http://imageshack.com/a/img923/3128/OfBJue.png)
+
+
+
 
 
 

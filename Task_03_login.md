@@ -17,8 +17,12 @@
 <a name="login"></a>
 - **1.Đăng nhập có kết nối database.**
 
+
 - Ta có 1 form đăng nhập.
+
 ![image](http://imageshack.com/a/img924/6280/fbMLhi.png)
+
+![image](http://imageshack.com/a/img924/3571/dyT3Sa.png)
 
 - Ta có 1 database có table chứa `user` là tài khoản và `pass` là mật khẩu để đăng nhập.
 
@@ -27,9 +31,9 @@
 ![image](http://imageshack.com/a/img922/6941/BCJWwE.png)
 
 
-- **B1**: Kết nối với CSDL (như đã trình bày).
 
-![image](http://imageshack.com/a/img924/4857/WwL5sr.png)
+
+
 
 
 

@@ -1,10 +1,13 @@
 # Task 1
+
 > Tên tài liệu: Task 1
 
 > Thực hiện: Nguyễn Minh Nhật
 
 > Cập nhật lần cuối: 21/1/2017
+
 ## Mục lục:
+
 [1.Github là gì ? dùng làm gì ?](#github)
 
 [2.Tạo repository đặt tên là PHP_Trainings](#taorepository)

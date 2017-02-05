@@ -12,7 +12,7 @@
 
 [2.Đăng kí có kết nối database](#register)
 
-## Nội dung.
+## -Nội dung.
 
 <a name="login"></a>
 - **1.Đăng nhập có kết nối database.**
@@ -39,6 +39,18 @@
 - Chuyển sang trang `homee.php`
 
 ![image](http://imageshack.com/a/img923/3128/OfBJue.png)
+
+- Nhập `user` và `password` vào và kiểm tra.
+
+![image](http://imageshack.com/a/img922/1087/FZcJTz.png)
+
+- Thành công nếu nhập chính xác.
+
+![image](http://imageshack.com/a/img924/5917/4uRSRC.png)
+
+- Thất bại nếu nhập sai tài khoản và mật khẩu.
+
+![image](http://imageshack.com/a/img922/4373/qkSohb.png)
 
 
 

@@ -53,7 +53,7 @@
 ![image](http://imageshack.com/a/img922/4373/qkSohb.png)
 
 
-##*Thansk you for watching ! ^^ *
+## *Thansk you for watching ! ^^*
 
 
 

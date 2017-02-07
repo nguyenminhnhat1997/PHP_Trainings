@@ -42,13 +42,13 @@
 
 ![a](http://imageshack.com/a/img923/2020/l4qXsN.png)
 
-- Tìm kiếm dữ liệu tìm kiếm không có trong CSDL.
+- Tìm kiếm dữ liệu tìm kiếm `không` có trong CSDL.
 
 > Báo `Not found`
 
 ![a](http://imageshack.com/a/img924/9673/wclnw5.png)
 
-- Tìm kiếm dữ liệu có trong CSDL.
+- Tìm kiếm dữ liệu `có` trong CSDL.
 
 > Tìm được 3 kết quả.
 

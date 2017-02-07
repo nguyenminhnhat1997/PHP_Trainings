@@ -34,7 +34,7 @@
 
 ![a](http://imageshack.com/a/img924/390/M25mfy.png)
 
-**Nhập dữ kiệu vào ô tìm kiếm và kiểm tra kết quá **
+**Nhập dữ kiệu vào ô tìm kiếm và kiểm tra kết quá**
 
 - Nhập không >= 3 kí tự.
 

@@ -56,6 +56,8 @@
 
 - Tìm kiếm thêm dữ liệu có trong CSDL.
 
+> Tìm được 1 kết quả.
+
 ![a](http://imageshack.com/a/img924/2691/ok1281.png)
 
 ## *Thanks you for watching !*
